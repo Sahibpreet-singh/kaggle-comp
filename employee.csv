@@ -1,0 +1,13 @@
+EmployeeID,Name,Age,Department,Salary,City,JoiningDate,Experience,Email,Skills,Manager,Performance,Bonus
+101,Aman Singh,24,AI,65000,Delhi,2022-06-15,2,aman@gmail.com,"Python,SQL",Rohit,4.5,5000
+102,Priya Sharma,28,Data Science,85000,Noida,2021-03-10,5,priya@gmail.com,"Python,R,Power BI",Ankit,4.8,8000
+103,Rahul Verma,31,Web,72000,Gurgaon,2020-01-20,7,rahul@gmail.com,"React,NodeJS",Rohit,4.2,6000
+104,Simran Kaur,,AI,69000,Delhi,2023-02-01,1,simran@gmail.com,"Python,TensorFlow",Rohit,4.0,
+105,Arjun Mehta,27,Data Science,,Noida,2021-07-19,4,arjun@gmail.com,"SQL,Excel",Ankit,3.9,4500
+106,Neha Gupta,25,HR,48000,Delhi,2024-01-10,1,neha@gmail.com,"Communication,Excel",Pooja,4.1,3000
+107,Karan Malhotra,29,AI,92000,Pune,2019-09-25,6,karan@gmail.com,"Python,PyTorch,Docker",Rohit,4.9,10000
+108,Riya Kapoor,26,Finance,55000,Mumbai,2022-11-05,3,riya@gmail.com,"Excel,Tally",Mehul,3.8,3500
+109,Anjali Sharma,30,Web,78000,Gurgaon,2020-05-18,6,anjali@gmail.com,"HTML,CSS,JavaScript",Rohit,4.3,6500
+110,Vikram Singh,35,Management,120000,Delhi,2017-08-30,10,,Leadership,Amit,4.7,15000
+111,Aman Singh,24,AI,65000,Delhi,2022-06-15,2,aman@gmail.com,"Python,SQL",Rohit,4.5,5000
+112,Mehak Arora,23,Intern,25000,Noida,2025-01-15,0,mehak@gmail.com,"Python",Ankit,3.7,1000
